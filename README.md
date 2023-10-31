@@ -1,6 +1,6 @@
 # Blender
 
-Donut begginer project
+## Donut begginer project
 
 This was my first Blender project, making a Donut animation.
 
