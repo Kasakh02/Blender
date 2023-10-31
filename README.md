@@ -1,6 +1,4 @@
-# Blender
-
-## Donut begginer project
+# Donut begginer project
 
 This was my first Blender project, making a Donut animation using Blender Guru's Donut Beginner Tutorial.
 
